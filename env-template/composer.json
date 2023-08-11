@@ -1,0 +1,8 @@
+{
+    "require": {
+      "sample/library": "1.0"
+    },
+    "extra": {
+      "api-key": "abcdef123456"
+    }
+}  

@@ -1,0 +1,9 @@
+{
+    "database": {
+      "username": "admin",
+      "password": "MyP@ssword"
+    },
+    "api": {
+      "token": "abcdef123456"
+    }
+  }  

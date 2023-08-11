@@ -1,0 +1,2 @@
+Remember to change the API key: 1234567890abcdef
+SSH Key: ssh-rsa AAAA... (truncated for brevity)

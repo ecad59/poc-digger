@@ -1,0 +1,9 @@
+<config>
+    <database>
+        <username>admin</username>
+        <password>SecureP@ssw0rd</password>
+    </database>
+    <api>
+        <token>abcdef123456</token>
+    </api>
+</config>

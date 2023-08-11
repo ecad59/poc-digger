@@ -1,0 +1,6 @@
+database:
+  username: root
+  password: SuperSecret
+
+api:
+  key: 123456abcdefg
